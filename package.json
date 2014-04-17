@@ -1,0 +1,31 @@
+{
+  "name": "mpoint",
+  "version": "0.0.0",
+  "description": "JavaScript implementation of a geometric point.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/mpoint.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rthor/mpoint.git"
+  },
+  "author": {
+    "name": "Ragnar Þór Valgeirsson (rthor)",
+    "email": "ragnar.valgeirsson@gmail.com",
+    "url": "http://rthor.is"
+  },
+  "bugs": {
+    "url": "https://github.com/rthor/mpoint/issues"
+  },
+  "homepage": "https://github.com/rthor/mpoint",
+  "keywords": [
+    "mathematics",
+    "math",
+    "geomoetry"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~2.12.3"
+  }
+}
